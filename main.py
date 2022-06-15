@@ -1,6 +1,2 @@
-from clase_per import Persona
-from clase_cuenta import Cuenta
-from cuentaJoven import CuentaJoven
-
-def main():
-    persona = Persona(9, 26,0)
+from clase_persona import Persona
+from cuenta import Cuenta
